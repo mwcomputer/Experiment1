@@ -4,3 +4,5 @@ Erstellt um ein par sachen auszuprobieren
 Erste änderung (Button umbenannt)
 änderung Zeile ergänst
 Layout geändert
+
+gedicht als platzhalter hinzugefügt.
